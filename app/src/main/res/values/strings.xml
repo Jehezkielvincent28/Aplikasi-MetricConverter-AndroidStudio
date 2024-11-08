@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Metric Converter \n by Jehezkiel Kasenda</string>
+    <string name="masukkan_nilai_awal">Masukkan Nilai Awal</string>
+    <string name="pilih_metrik">Pilih Metrik</string>
+    <string name="ke">Ke:</string>
+    <string name="pilih_satuan">Pilih Satuan</string>
+    <string name="dari">Dari:</string>
+
+    <string-array name="daftar_metrik">
+        <item>Panjang</item>
+        <item>Massa</item>
+        <item>Waktu</item>
+        <item>Arus Listrik</item>
+        <item>Suhu</item>
+        <item>Intensitas Cahaya</item>
+        <item>Jumlah Zat</item>
+    </string-array>
+
+    <string-array name="select_panjang_item">
+        <item>Meter</item>
+        <item>Kilometer</item>
+    </string-array>
+
+    <string-array name="select_massa_item">
+        <item>Gram</item>
+        <item>Kilogram</item>
+    </string-array>
+
+    <string-array name="select_waktu_item">
+        <item>Sekon</item>
+        <item>Menit</item>
+    </string-array>
+
+    <string-array name="select_arus_listrik_item">
+        <item>Ampere</item>
+        <item>Nanoampere</item>
+    </string-array>
+
+    <string-array name="select_intensitas_cahaya_item">
+        <item>Candela</item>
+        <item>Lumen</item>
+    </string-array>
+
+    <string-array name="select_jumlah_zat_item">
+        <item>Mole</item>
+        <item>Kilomole</item>
+    </string-array>
+
+    <string-array name="select_suhu_item">
+        <item>Celcius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
